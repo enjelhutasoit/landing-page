@@ -5,7 +5,8 @@ This landing page is 3 of 5 final projects to earn a "Responsive Web Design Cert
 You can find this source, here:
 - [ ] https://codepen.io/enjelhutasoit/pen/gqvLqE.
 
-Here is the UI:
+
+
 ![alt text](https://github.com/enjelhutasoit/landing-page/blob/master/codepen.io_enjelhutasoit-Product%20Landing%20Page-_full_gqvLqE(Laptop%20with%20HiDPI%20screen).png)
 
 ------------------------------------------------------------------------------------------------
