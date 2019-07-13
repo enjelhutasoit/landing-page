@@ -1,8 +1,8 @@
-A Pen created at CodePen.io. 
 
+# Landing Page
 This landing page is 3 of 5 final projects to earn a "Responsive Web Design Certification (300 hours)" from FreeCodeCamp.org
 
-You can find this source, here:
+A Pen created at CodePen.io. You can find this source, here:
 - [ ] https://codepen.io/enjelhutasoit/pen/gqvLqE.
 
 
