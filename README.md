@@ -2,7 +2,7 @@
 # Landing Page
 This landing page is 3 of 5 final projects to earn a "Responsive Web Design Certification (300 hours)" from FreeCodeCamp.org
 
-A Pen created at CodePen.io. You can find this source, here:
+A Pen created at CodePen.io:
 - [ ] https://codepen.io/enjelhutasoit/pen/gqvLqE.
 
 
@@ -17,7 +17,7 @@ Hi, there?
 Enjel Hutasoit's here!
 
 I love to learn from people with various perspectives.
-So, lets connecting and growing together.
+So, let's connecting and growing together.
 
 You can connect with me on:
 - [ ] https://enjelhutasoit.com 
